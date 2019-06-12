@@ -1,0 +1,13 @@
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\bin\Debug\JSONParser1.exe.config
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\bin\Debug\JSONParser1.exe
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\bin\Debug\JSONParser1.pdb
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.csprojAssemblyReference.cache
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.JSONParser.resources
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.Properties.Resources.resources
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.csproj.GenerateResource.cache
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.exe
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.pdb
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patrik\source\repos\JSONParser1\JSONParser1\obj\Debug\JSONParser1.csproj.CopyComplete
